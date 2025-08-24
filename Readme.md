@@ -36,15 +36,7 @@ Here’s a snapshot of my recent GitHub activity:
         loading="lazy"
         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px; display:block;">
     </a>
-
-  <figcaption style="text-align:center; font-size:12px; color:var(--text-weak, #6b7280); margin-top:8px;">
-      Live GitHub stats — updated automatically
-    </figcaption>
-  </figure>
-
 </div>
-
-
 
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**, and **Agentic AI**.  
