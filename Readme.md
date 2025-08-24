@@ -3,34 +3,21 @@
 
 ### 📈 GitHub at a glance
 
-<!-- Animated gradient header -->
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7A00FF&height=140&section=header&text=Kapil%20on%20GitHub&fontSize=36&fontColor=ffffff&animation=twinkling)
+### 📊 Highlights
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/kapilpalanisamy">
+    <img width="420"
+         src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&rank_icon=github&border_radius=10&theme=vision-friendly-dark"
+         alt="Stats"/>
+  </a>
+  <a href="https://github.com/kapilpalanisamy">
+    <img width="420"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=kapilpalanisamy&theme=vision-friendly-dark&hide_longest_streak=true"
+         alt="Streak"/>
+  </a>
+</p>
 
-<a href="https://github.com/kapilpalanisamy">
-  <img width="430"
-       src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&rank_icon=github&border_radius=14&theme=tokyonight"
-       alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/kapilpalanisamy">
-  <img width="430"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=kapilpalanisamy&theme=tokyonight&border_radius=14"
-       alt="Streak Stats"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/kapilpalanisamy">
-  <img width="900"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=kapilpalanisamy&theme=tokyo-night&radius=12"
-       alt="Activity Graph"/>
-</a>
-
-</div>
-
-<!-- Animated gradient footer -->
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:00C6FF&height=120&section=footer)
 
 
 ### 👀 Interests  
