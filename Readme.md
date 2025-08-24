@@ -1,22 +1,18 @@
 # 👋 Hi, I'm Kapil
 ![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
 
-### 📈 GitHub at a glance
+### 📈 **GitHub Contributions & Streaks**  
+Here’s a snapshot of my recent GitHub activity:
 
-### 📊 Highlights
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
 
-<p align="center">
-  <a href="https://github.com/kapilpalanisamy">
-    <img width="420"
-         src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&include_all_commits=true&rank_icon=github&border_radius=10&theme=vision-friendly-dark"
-         alt="Stats"/>
+  <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
+         alt="GitHub Stats" 
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
   </a>
-  <a href="https://github.com/kapilpalanisamy">
-    <img width="420"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=kapilpalanisamy&theme=vision-friendly-dark&hide_longest_streak=true"
-         alt="Streak"/>
-  </a>
-</p>
+
+</div>
 
 
 
