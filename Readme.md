@@ -104,7 +104,7 @@ I'm looking to collaborate on:
 <div align="center">
 <h1> 📫 How to Reach Me </h1>  
 
-<a href="kapilpalanisamy73@gmail.com" target="_blank">
+<a href="mailto:kapilpalanisamy73@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/kapilpalanisamy/" target="_blank">
