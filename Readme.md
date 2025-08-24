@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Kapil
-![Line](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header)
+<!-- Heading -->
+<h1 align="left">👋 Hi, I'm Kapil</h1>
 
-<!-- animated typing subtitle (centered) -->
+<!-- Top Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="80%">
+</p>
+
+<!-- Typing Subtitle -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+LLMs+%7C+Generative+AI;Python+%7C+Java+%7C+SQL;Always+learning+and+building+%F0%9F%9A%80"
@@ -9,7 +14,11 @@
   />
 </p>
 
-![Line](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header)
+<!-- Bottom Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="80%">
+</p>
+
 
 
 ### 📈 **GitHub Contributions & Streaks**  
