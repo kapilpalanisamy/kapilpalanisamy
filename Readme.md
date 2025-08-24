@@ -99,17 +99,26 @@ I'm looking to collaborate on:
 
 
 <div align="center">
+
 <h1> 📫 How to Reach Me </h1>  
 
-<a href="mailto:kapilpalanisamy73@gmail.com" target="_blank">
+<a href="mailto:kapilpalanisamy73@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://www.linkedin.com/in/kapilpalanisamy/" target="_blank">
+
+<a href="https://www.linkedin.com/in/kapilpalanisamy/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>  
-<a href="https://github.com/kapilpalanisamy" target="_blank">
+
+<a href="https://github.com/kapilpalanisamy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
+
+<a href="https://leetcode.com/u/kapilpalanisamy/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>  
+
+</div>
 
 ![GradientLine](https://github.com/user-attachments/assets/6ea2c35e-1349-4ced-bfd5-89d6ca0929ba)
 </div>
