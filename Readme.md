@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kapil
-![Line](https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,25:ff7300,50:fffb00,75:48ff00,100:00ffd5&height=4&section=header)
-
-
+![Line](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header)
 
 <!-- animated typing subtitle (centered) -->
 <p align="center">
