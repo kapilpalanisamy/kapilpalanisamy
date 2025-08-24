@@ -1,6 +1,17 @@
 # 👋 Hi, I'm Kapil
 ![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
 
+<!-- animated typing subtitle (centered) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+LLMs+%7C+Generative+AI;Python+%7C+Java+%7C+SQL;Always+learning+and+building+%F0%9F%9A%80"
+    alt="Typing Animation"
+  />
+</p>
+
+<!-- thin animated gradient line -->
+![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header)
+
 ### 📈 **GitHub Contributions & Streaks**  
 Here’s a snapshot of my recent GitHub activity:
 
@@ -14,6 +25,8 @@ Here’s a snapshot of my recent GitHub activity:
 
 </div>
 
+<!-- subtle animated gradient footer line -->
+![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:7A00FF,100:00C6FF&height=4&section=footer)
 
 
 ### 👀 Interests  
