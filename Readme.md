@@ -1,19 +1,38 @@
 # 👋 Hi, I'm Kapil
 ![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
 
+<!-- ==== Animated Wave Header ==== -->
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7A00FF&height=120&section=header)
+
 ### 📈 **GitHub Contributions & Streaks**  
-Here’s a snapshot of my recent GitHub activity:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:30px; margin: 10px auto;">
 
-  <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
-         alt="GitHub Stats" 
-         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
+  <!-- Stats Card -->
+  <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration:none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=tokyonight"
+      alt="GitHub Stats"
+      style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.15); max-width:100%; width:420px;"
+    />
+  </a>
+
+  <!-- Streak Card -->
+  <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration:none;">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=kapilpalanisamy&theme=tokyonight&hide_longest_streak=true"
+      alt="GitHub Streak"
+      style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.15); max-width:100%; width:420px;"
+    />
   </a>
 
 </div>
 
+<!-- Optional activity graph (comment out if you don’t want it) -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilpalanisamy&theme=tokyo-night&radius=12" alt="Activity Graph" style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.15); width:100%; max-width:900px; margin: 10px auto; display:block;"/> -->
+
+<!-- ==== Animated Wave Footer ==== -->
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:00C6FF&height=100&section=footer)
 
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**, and **Agentic AI**.  
