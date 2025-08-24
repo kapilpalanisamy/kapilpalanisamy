@@ -3,7 +3,7 @@
 
 <!-- Top Line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="80%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="100%">
 </p>
 
 <!-- Typing Subtitle -->
@@ -16,7 +16,7 @@
 
 <!-- Bottom Line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="80%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="100%">
 </p>
 
 
