@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Kapil
-![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
-
+![Full Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=2&section=header&width=100%)
 <!-- animated typing subtitle (centered) -->
 <p align="center">
   <img
