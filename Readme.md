@@ -18,13 +18,13 @@ Here’s a snapshot of my recent GitHub activity:
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**, and **Agentic AI**.  
 - 🧠 Exploring how Transformers evolved and revolutionized AI.  
-- 🔍 Researching **agentic AI** and **ethical Generative AI applications**.  
+- 🔍 Researching **agentic AI** and **Ethical Generative AI applications**.  
 - 🤖 Passionate about **automation, system optimization, and performance tuning**.  
 
 ### 🌱 Currently Learning  
 - 📚 **Generative AI & LLMs** → Prompt engineering, fine-tuning, RAG systems.  
-- 💻 **Operating Systems** → Digging deeper into algorithms and internals.  
-- 🏗 **DSA & System Design** → Strengthening fundamentals for scalable solutions.  
+- 💻 **Operating Systems** → Diving deeper into algorithms and internals.  
+- 🏗 **DSA** →  Solving daily problems to strengthen my algorithmic skills.  
 
 ### 💞️ Collaboration Opportunities  
 I'm looking to collaborate on:  
