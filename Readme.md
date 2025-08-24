@@ -92,9 +92,6 @@ I'm looking to collaborate on:
 <a href="https://github.com/kapilpalanisamy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
-<a href="https://drive.google.com/file/d/1Hu_SgSlGstq49DUNur_fiAOt5UtWDPlQ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>  
 
 ![GradientLine](https://github.com/user-attachments/assets/6ea2c35e-1349-4ced-bfd5-89d6ca0929ba)
 </div>
