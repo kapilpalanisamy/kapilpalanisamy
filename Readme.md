@@ -8,7 +8,8 @@
     alt="Typing Animation"
   />
 </p>
-![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header)
+<!-- subtle animated gradient footer line -->
+![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:7A00FF,100:00C6FF&height=4&section=footer)
 
 ### 📈 **GitHub Contributions & Streaks**  
 Here’s a snapshot of my recent GitHub activity:
