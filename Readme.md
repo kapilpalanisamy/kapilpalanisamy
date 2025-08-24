@@ -16,30 +16,21 @@ Here’s a snapshot of my recent GitHub activity:
 
 
 ### 👀 Interests  
-I'm passionate about **YOUR_INTERESTS**.  
-- 🧠 YOUR_LINE_1  
-- 🌐 YOUR_LINE_2  
-- 🔍 YOUR_LINE_3  
+I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**,and **Agentic AI**.  
+- 🧠 Exploring how the Transformers evolved and made the huge impact in AI
+- 🔍 Researching agentic AI and ethical Generative AI use-cases
+- 🤖 Passionate about automation, system optimization, and performance tuning  
 
 ### 🌱 Currently Learning  
-- 📚 YOUR_LEARNING_1  
-- 💻 YOUR_LEARNING_2  
-- ⚙️ YOUR_LEARNING_3  
-- 🏗 YOUR_LEARNING_4  
+- 📚 **Generative AI & LLMs** (prompt engineering, fine-tuning, RAG systems)  
+- 💻 Diving deeper into Operating Systems  
+- 🏗  **DSA**: Solving daily problems to strengthen my algorithmic skills.
 
 ### 💞️ Collaboration Opportunities  
 I'm looking to collaborate on:  
-- 📊 YOUR_COLLAB_1  
-- 🌐 YOUR_COLLAB_2  
-- 🤖 YOUR_COLLAB_3  
-- 🛠️ Open-source projects: Let's build something amazing together!
-
-### ⚡ Fun Fact  
-I’m a **YOUR_FUNFACT**  
-- 🧩 YOUR_FUNFACT_DETAIL_1  
-- 🎮 YOUR_FUNFACT_DETAIL_2  
-- 📖 YOUR_FUNFACT_DETAIL_3  
-
+- 📊 Working on AI/ML & Deep Learning projects  
+- 🤖 Open to research & innovation in agentic AI and automation  
+- 🛠️ Contributing to open-source backend, cloud, and AI tools
 ---
 
 
@@ -52,13 +43,10 @@ I’m a **YOUR_FUNFACT**
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Languages</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
       <!-- Keep only what you know -->
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <!-- Remove if not needed -->
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"alt="SQL">
     </div>
   </div>
 
