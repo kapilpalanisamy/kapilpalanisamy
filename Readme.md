@@ -55,12 +55,12 @@ I'm looking to collaborate on:
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
       <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
       <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8">
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=robot&logoColor=white" alt="Prompt Engineering">
     </div>
   </div>
 
@@ -68,7 +68,7 @@ I'm looking to collaborate on:
   <div style="flex: 1; text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Tools</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <img src="https://img.shields.io/badge/Hoop-AI%20Automation-blueviolet?style=for-the-badge&logo=robot&logoColor=white" alt="Hoop">
+      <img src="https://img.shields.io/badge/Hoop-AI%20Automation-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white" alt="Hoop">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
