@@ -68,7 +68,7 @@ I'm looking to collaborate on:
   <div style="flex: 1; text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Tools</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <img src="assets/hoop.png" alt="Hoop" style="width:80px; height:80px;"/>
+      <img src="https://img.shields.io/badge/Hoop-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white" alt="Hoop">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
