@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Kapil
-<p align="center" width="100%">
-  <img src="https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8" alt="GradientLine" style="width: 100%; height: 3px;"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8" alt="GradientLine" />
 </p>
+
 
 <!-- animated typing subtitle (centered) -->
 <p align="center">
