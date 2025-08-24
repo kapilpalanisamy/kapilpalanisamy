@@ -77,15 +77,6 @@ I'm looking to collaborate on:
       <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
     </div>
   </div><br/>
-
-  <h2>Most Languages Used</h2>
-
-   <a href="https://github.com/kapilpalanisamy/github-readme-stats" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilpalanisamy&layout=pie&theme=ambient_gradient" 
-         alt="Top Languages" 
-         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
-  </a>
-
 </div>
 
 
