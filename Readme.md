@@ -22,6 +22,10 @@
 ### 📈 **GitHub Contributions & Streaks**  
 Here’s a snapshot of my recent GitHub activity:
 
+<p align="center">
+  🟢 **237 contributions in the last year**  
+</p>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
 
   <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration: none;">
@@ -31,6 +35,7 @@ Here’s a snapshot of my recent GitHub activity:
   </a>
 
 </div>
+
 
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**, and **Agentic AI**.  
