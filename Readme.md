@@ -37,7 +37,6 @@ Here’s a snapshot of my recent GitHub activity:
         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px; display:block;">
     </a>
 
-    <!-- optional unobtrusive caption (keeps visual layout unchanged) -->
   <figcaption style="text-align:center; font-size:12px; color:var(--text-weak, #6b7280); margin-top:8px;">
       Live GitHub stats — updated automatically
     </figcaption>
