@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Kapil
-![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header)
+![Wave](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=120&section=header&reversal=true)
+
 <!-- animated typing subtitle (centered) -->
 <p align="center">
   <img
@@ -24,8 +25,6 @@ Here’s a snapshot of my recent GitHub activity:
 
 </div>
 
-<!-- subtle animated gradient footer line -->
-![Wave](https://capsule-render.vercel.app/api?type=rect&color=0:7A00FF,100:00C6FF&height=4&section=footer)
 
 
 ### 👀 Interests  
