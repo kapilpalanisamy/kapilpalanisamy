@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_NAME
+# 👋 Hi, I'm Kapil
 ![GradientLine](https://github.com/user-attachments/assets/3e7bbf37-15a3-4c70-b569-ba25e8458af8)
 
 ### 📈 **GitHub Contributions & Streaks**  
@@ -6,8 +6,8 @@ Here’s a snapshot of my recent GitHub activity:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
+  <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
          alt="GitHub Stats" 
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
   </a>
