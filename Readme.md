@@ -24,20 +24,13 @@ Here’s a snapshot of my recent GitHub activity:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
 
-  <figure style="margin:0;">
-    <a href="https://github.com/kapilpalanisamy"
-       target="_blank"
-       rel="noopener noreferrer"
-       aria-label="Open Kapil Palanisamy's GitHub profile (opens in a new tab)"
-       title="Open GitHub profile">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient"
-        alt="GitHub stats card for Kapil Palanisamy showing contribution metrics"
-        loading="lazy"
-        style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px; display:block;">
-    </a>
-</div>
+  <a href="https://github.com/kapilpalanisamy" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
+         alt="GitHub Stats" 
+         style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
+  </a>
 
+</div>
 
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**, and **Agentic AI**.  
