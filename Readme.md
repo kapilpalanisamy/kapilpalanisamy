@@ -59,8 +59,6 @@ I'm looking to collaborate on:
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
       <img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     </div>
   </div>
 
@@ -68,9 +66,7 @@ I'm looking to collaborate on:
   <div style="flex: 1; text-align: center; padding: 20px; background-color: #f8f9fa; border-radius: 12px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="font-size: 1.5rem; color: #333; margin-bottom: 20px;">Tools</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
       <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
