@@ -38,7 +38,7 @@ Here’s a snapshot of my recent GitHub activity:
     </a>
 
     <!-- optional unobtrusive caption (keeps visual layout unchanged) -->
-    <figcaption style="text-align:center; font-size:12px; color:var(--text-weak, #6b7280); margin-top:8px;">
+  <figcaption style="text-align:center; font-size:12px; color:var(--text-weak, #6b7280); margin-top:8px;">
       Live GitHub stats — updated automatically
     </figcaption>
   </figure>
