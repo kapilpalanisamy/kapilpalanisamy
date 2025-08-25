@@ -35,7 +35,7 @@ Here’s a snapshot of my recent GitHub activity:
 ### 👀 Interests  
 I'm passionate about **Machine Learning**, **Deep Learning**, **LLMs**, **Generative AI**, and **Agentic AI**.  
 - 🧠 Exploring how Transformers evolved and revolutionized AI.  
-- 🔍 Researching **agentic AI** and **Ethical Generative AI applications**.  
+- 🔍 Researching **Agentic AI** and **Ethical Generative AI applications**.  
 - 🤖 Passionate about **automation, system optimization, and performance tuning**.  
 
 ### 🌱 Currently Learning  
