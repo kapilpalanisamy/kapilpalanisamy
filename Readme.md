@@ -9,7 +9,7 @@
 <!-- Typing Subtitle -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ML+%7C+DL+%7C+LLMs+%7C+Generative+AI+%7C+Agentic+AI;Python+%7C+Java+%7C+SQL;Always+learning+and+building+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=ML+%7C+DL+%7C+LLMs+%7C+Generative+AI+%7C+Agentic+AI;Python+%7C+Java+%7C+SQL;Always+learning+and+building+%F0%9F%9A%80"
     alt="Typing Animation"
   />
 </p>
@@ -19,13 +19,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7A00FF&height=4&section=header" width="100%">
 </p>
 
+
 ### 📈 **GitHub Contributions & Streaks**  
 Here’s a snapshot of my recent GitHub activity:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
 
   <a href="https://github.com/kapilpalanismay" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient&count_private=true&include_all_commits=true&cache_seconds=1800&token=${{ secrets.GH_STATS_TOKEN }}" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
          alt="GitHub Stats" 
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
   </a>
