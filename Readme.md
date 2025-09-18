@@ -9,7 +9,7 @@
 <!-- Typing Subtitle -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=ML+%7C+DL+%7C+LLMs+%7C+Generative+AI+%7C+Agentic+AI;Python+%7C+Java+%7C+SQL;Always+learning+and+building+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=ML+%7C+DL+%7C+LLMs+%7C+Generative+AI+%7C+Agentic+AI;Python+%7C+Java+%7C+SQL;Always+learning+and+building+%F0%9F%9A%80"
     alt="Typing Animation"
   />
 </p>
