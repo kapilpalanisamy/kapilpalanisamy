@@ -25,7 +25,7 @@ Here’s a snapshot of my recent GitHub activity:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 70px; margin: 20px auto;">
 
   <a href="https://github.com/kapilpalanismay" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient" 
+    <img src="https://github-readme-stats.vercel.app/api?username=kapilpalanisamy&show_icons=true&hide_title=true&hide=prs&rank_icon=github&theme=ambient_gradient&count_private=true&include_all_commits=true&cache_seconds=1800&token=${{ secrets.GH_STATS_TOKEN }}" /> 
          alt="GitHub Stats" 
          style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 400px;">
   </a>
